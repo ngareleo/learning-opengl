@@ -1,1 +1,3 @@
 .vs/
+*.vscxproj*
+x64/*
